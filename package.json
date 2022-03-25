@@ -1,6 +1,6 @@
 {
   "name": "icommkt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Icommkt API Conector",
   "main": "dist/index.js",
   "scripts": {
