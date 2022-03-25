@@ -2,10 +2,10 @@ import axios from "axios";
 
 export interface IcommContact {
     Email: String,
-    CustomFields: [{
+    CustomFields: {
         Key: String,
         Value: String
-    }]
+    }[]
 }
 
 class Icommkt{
